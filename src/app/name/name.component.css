@@ -1,0 +1,27 @@
+.firstName {
+  margin: 20px 22px 20px 0;
+}
+
+.lastName {
+  margin: 20px 0 20px 22px;
+}
+
+.left {
+  display: inline-block;
+  width: 45%;
+}
+
+.right {
+  display: inline-block;
+  width: 45%;
+}
+
+.firstName input[type="text"] {
+  height: 30px;
+  width: 100%;
+}
+
+.lastName input[type="text"] {
+  height: 30px;
+  width: 100%;
+}

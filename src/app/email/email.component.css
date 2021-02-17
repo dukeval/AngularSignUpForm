@@ -1,0 +1,5 @@
+.singUpEmail input[type="email"] {
+  height: 30px;
+  width: 100%;
+  margin: 10px 0;
+}
